@@ -22,7 +22,7 @@ git clone https://github.com/your-username/coming-soon-page.git
 
 3. Customize the page according to your needs by modifying the HTML, CSS, and JavaScript files.
 
-4. Add your logo and background image by replacing `logo.png` and `background.jpg` in the `images` folder.
+4. Add your logo and background image by replacing `logo.png` and `background.png` in the `images` folder.
 
 5. Configure the countdown timer in the `script.js` file. Set the desired launch date and time in the `countdownDate` variable.
 
